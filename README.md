@@ -28,14 +28,6 @@
   </samp>
 </p>
 
-<p align="center">
-  <samp>
-    欢迎通过 <a href="https://twitter.com/yourusername">Twitter</a> 与我联系
-    <br>Feel free to contact me on <a href="https://twitter.com/yourusername">Twitter</a><br><br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-  </samp>
-</p>
-
 <h2 align="center">:telescope: 2024 年目标 | 2024 Goals</h2>
 
 <details>
@@ -72,14 +64,6 @@
     <a href="https://github.com/yourusername/project3">Project 3</a>
   </samp>
 </p>
-
-<h2 align="center">:chart_with_upwards_trend: 我的数据 | My Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="450px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="450px">
-</p>
-
-<h2 align="center">:zap: 技术栈 | Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
